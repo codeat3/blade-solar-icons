@@ -2,7 +2,16 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-solar-icons/compare/1.3.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-solar-icons/compare/1.3.1...HEAD)
+
+## [1.3.1](https://github.com/codeat3/blade-solar-icons/compare/1.3.0...1.3.1) - 2025-12-06
+
+### What's Changed
+
+* synced with the latest commit
+* chore: update icons with the latest commit [3bff805](https://github.com/iconify/icon-sets/commit/3bff8055fd9cb447a9947a324dc0be449af3037a) by @github-actions[bot] in https://github.com/codeat3/blade-solar-icons/pull/82
+
+**Full Changelog**: https://github.com/codeat3/blade-solar-icons/compare/1.3.0...1.3.1
 
 ## [1.3.0](https://github.com/codeat3/blade-solar-icons/compare/1.2.0...1.3.0) - 2025-09-17
 
