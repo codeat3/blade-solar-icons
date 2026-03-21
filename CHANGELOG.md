@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-solar-icons/compare/1.3.1...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-solar-icons/compare/1.4.1...HEAD)
+
+## [1.4.1](https://github.com/codeat3/blade-solar-icons/compare/1.3.1...1.4.1) - 2026-03-21
+
+### What's Changed
+
+* laravel 13 compatibility by @swapnilsarwe in https://github.com/codeat3/blade-solar-icons/pull/98
+
+**Full Changelog**: https://github.com/codeat3/blade-solar-icons/compare/1.3.1...1.4.1
 
 ## [1.3.1](https://github.com/codeat3/blade-solar-icons/compare/1.3.0...1.3.1) - 2025-12-06
 
